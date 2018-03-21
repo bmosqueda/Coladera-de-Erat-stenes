@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\obj\Debug\Números primos Eratóstenes.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\obj\Debug\Números_primos_Eratóstenes.Form1.resources
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\obj\Debug\Números_primos_Eratóstenes.Properties.Resources.resources
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\obj\Debug\Números primos Eratóstenes.csproj.GenerateResource.Cache
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\obj\Debug\Números primos Eratóstenes.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\bin\Debug\Números primos Eratóstenes.exe.config
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\bin\Debug\Números primos Eratóstenes.exe
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\bin\Debug\Números primos Eratóstenes.pdb
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\obj\Debug\Números primos Eratóstenes.exe
+C:\Users\brand\source\repos\Números primos Eratóstenes\Números primos Eratóstenes\obj\Debug\Números primos Eratóstenes.pdb
